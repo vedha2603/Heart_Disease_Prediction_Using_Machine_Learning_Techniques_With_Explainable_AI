@@ -42,7 +42,11 @@ The project employs several machine learning and deep learning models, including
 - Decision Trees
 - Random Forests
 - Support Vector Machines
-- Neural Networks
+- Neural Networks (Multi-layer Perceptron)
+- K-Nearest Neighbors
+- Gradient Boosting
+- XGBoost
+- Naive Bayes
 
 Each model's performance is evaluated and compared to select the best-performing model.
 
@@ -66,7 +70,3 @@ If you wish to contribute to this project, please follow these steps:
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
