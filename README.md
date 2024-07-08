@@ -62,11 +62,3 @@ These techniques help in understanding the impact of different features on the m
 
 The results section of the notebook provides a summary of the model performances, including accuracy, precision, recall, and F1-score. The explainable AI techniques are also demonstrated to provide insights into the model's decision-making process.
 
-## Contributing
-
-If you wish to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
